@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b66990bcb010e9046beffbf1fe0a7c48
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gristled Font
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 43faaf31a1b85a444adfb855138a043d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

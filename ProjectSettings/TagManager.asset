@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hedef
+  - Top
+  - harf1
+  - harf2
+  - harf3
+  - harf4
+  - harf5
+  - Zemin
+  - DusmanKontrol
+  - GameControl
+  - DusmanKalesi
+  - SavunanKalesi
+  - SabitKontrol
+  - Missile
+  - ArkaDuvar
+  - Deniz
+  - A
+  - B
+  - C
+  - D
+  - E
+  - F
+  - G
+  - H
+  - I
+  - J
+  - K
+  - L
+  - M
+  - N
+  - O
+  - P
+  - R
+  - Q
+  - S
+  - T
+  - U
+  - W
+  - V
+  - X
+  - Y
+  - Z
+  - LevelPrefab
+  - LevelDegerleri
+  - UIHarf
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Tugla
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
