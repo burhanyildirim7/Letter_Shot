@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 using TMPro;
-using ElephantSDK;
+//using ElephantSDK;
 
 public class UIController : MonoBehaviour
 {
@@ -63,7 +63,7 @@ public class UIController : MonoBehaviour
     public void NextLevel()
     {
 
-        Elephant.LevelCompleted(KacinciLevel);
+        //Elephant.LevelCompleted(KacinciLevel);
 
         CoinMiktari = CoinMiktari + LeveldeKazanilanCoinMiktari;
         PlayerPrefs.SetInt("CoinDegeri", CoinMiktari);
@@ -127,7 +127,7 @@ public class UIController : MonoBehaviour
     public void RestartLevel()
     {
 
-        Elephant.LevelFailed(KacinciLevel);
+        //Elephant.LevelFailed(KacinciLevel);
 
         TapToStartEkran.SetActive(true);
 

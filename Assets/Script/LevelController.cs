@@ -4,7 +4,7 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using TMPro;
 using UnityEngine.UI;
-using ElephantSDK;
+//using ElephantSDK;
 
 public class LevelController : MonoBehaviour
 {
@@ -54,7 +54,7 @@ public class LevelController : MonoBehaviour
         levelSayac = PlayerPrefs.GetInt("DevamEdenLevel");
         levelTemp = Instantiate(Leveller[levelSayac], new Vector3(0, 0, 0), Quaternion.identity);
         _currentLevel = PlayerPrefs.GetInt("MevcutLevel");
-        Elephant.LevelStarted(_currentLevel);
+        //Elephant.LevelStarted(_currentLevel);
     }
 
     // Update is called once per frame
@@ -113,7 +113,7 @@ public class LevelController : MonoBehaviour
     {
         levelTemp = Instantiate(Leveller[levelSayac], new Vector3(0, 0, 0), Quaternion.identity);
         _currentLevel = PlayerPrefs.GetInt("MevcutLevel");
-        Elephant.LevelStarted(_currentLevel);
+        //Elephant.LevelStarted(_currentLevel);
     }
 
 }
