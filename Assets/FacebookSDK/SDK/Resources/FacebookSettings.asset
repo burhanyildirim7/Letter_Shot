@@ -16,9 +16,9 @@ MonoBehaviour:
   clientTokens:
   - 
   appIds:
-  - 892250101416140
+  - 0
   appLabels:
-  - Letter Shot 3D!
+  - App name
   cookie: 1
   logging: 1
   status: 1
